@@ -1,0 +1,28 @@
+# Project Structure
+
+
+```text
+AESSuccess/
+├─ CONTRIBUTING.md
+├─ PROJECT_STRUCTURE.md
+├─ README.md
+├─ package.json
+├─ public/
+│ ├─ index.html
+│ └─ manifest.json
+├─ src/
+│ ├─ App.css
+│ ├─ App.js
+│ └─ App.test.js
+├─ src_components/
+│ ├─ ExpenseForm.css
+│ ├─ ExpenseForm.js
+│ ├─ ExpenseList.css
+│ ├─ ExpenseList.js
+│ ├─ Header.css
+│ ├─ Header.js
+│ ├─ Receipt.css
+│ └─ Receipt.js
+└─ src_index/
+├─ index.css
+└─ index.js
